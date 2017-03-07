@@ -1,20 +1,12 @@
-## How to use angular-express-seed
 
-Clone the angular-express-seed repository, run `npm install` to grab the dependencies, and start hacking!
+### RUN
 
-### Running the app
+    ##
+    - npm install
+    - node app.js
 
-Runs like a typical express app:
 
-    node app.js
 
-### Receiving updates from upstream
-
-Just fetch the changes and merge them into your project with git.
-
-## Checkout:
-
-      http://alvimurtaza-crud.jit.su/
 
 ## Directory Layout
 
@@ -42,8 +34,4 @@ Just fetch the changes and merge them into your project with git.
         indexPost.jade
         readPost.jade
 
-## Contributors
 
-Murtaza Alvi : http://github.com/AlviMurtaza
-
-Bassam Ismail : http://github.com/skippednote
